@@ -4702,7 +4702,7 @@ a.close.disabled {
   vertical-align: text-top !important; }
 
 .bg-primary {
-  background-color: #A13941 !important; }
+  background-color: #255888 !important; }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
@@ -7281,7 +7281,7 @@ h3 {
   .masthead .masthead-subheading {
     font-size: 1.25rem; }
   .masthead .masthead-avatar {
-    width: 15rem; }
+    width: 45rem;}
 
 @media (min-width: 992px) {
   .masthead {
